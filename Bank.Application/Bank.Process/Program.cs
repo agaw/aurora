@@ -17,7 +17,7 @@ namespace Bank.Process
 {
     class Program
     {
-		private static readonly String sPublishQueuePath = ".\\private$\\BankMessageQueueTransacted";
+		private static readonly String sBankQueuePath = ".\\private$\\BankMessageQueueTransacted";
 
         static void Main(string[] args)
         {
@@ -40,8 +40,8 @@ namespace Bank.Process
 		private static void EnsureMessageQueuesExists()
 		{
 			// Create the transacted MSMQ queue if necessary.
-			if (!MessageQueue.Exists(sPublishQueuePath))
-				MessageQueue.Create(sPublishQueuePath, true);
+			if (!MessageQueue.Exists(sBankQueuePath))
+				MessageQueue.Create(sBankQueuePath, true);
 		}
 
         private static void CreateDummyEntities()
