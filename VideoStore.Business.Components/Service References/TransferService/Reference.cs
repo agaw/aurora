@@ -15,8 +15,7 @@ namespace VideoStore.Business.Components.TransferService {
     [System.ServiceModel.ServiceContractAttribute(ConfigurationName="TransferService.ITransferService")]
     public interface ITransferService {
         
-        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ITransferService/Transfer", ReplyAction="http://tempuri.org/ITransferService/TransferResponse")]
-        [System.ServiceModel.TransactionFlowAttribute(System.ServiceModel.TransactionFlowOption.Allowed)]
+        [System.ServiceModel.OperationContractAttribute(IsOneWay=true, Action="http://tempuri.org/ITransferService/Transfer")]
         void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber);
     }
     

@@ -9,9 +9,4 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="TransferResponse">
-    <xs:complexType>
-      <xs:sequence />
-    </xs:complexType>
-  </xs:element>
 </xs:schema>
