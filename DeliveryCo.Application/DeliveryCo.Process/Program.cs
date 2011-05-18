@@ -9,13 +9,17 @@ using Microsoft.Practices.Unity.Configuration;
 using Microsoft.Practices.Unity.ServiceLocatorAdapter;
 using Microsoft.Practices.ServiceLocation;
 using System.Configuration;
+using System.Messaging;
 
 namespace DeliveryCo.Process
 {
     class Program
     {
+        private static readonly String sDeliveryQueuePath = ".\\private$\\DeliveryMessageQueueTransacted";
+
         static void Main(string[] args)
         {
+            EnsureMessageQueuesExists();
             ResolveDependencies();
             using (ServiceHost lHost = new ServiceHost(typeof(DeliveryService)))
             {
@@ -24,6 +28,13 @@ namespace DeliveryCo.Process
                 while (Console.ReadKey().Key != ConsoleKey.Q) ;
             }
 
+        }
+
+        private static void EnsureMessageQueuesExists()
+        {
+            // Create the transacted MSMQ queue if necessary.
+            if (!MessageQueue.Exists(sDeliveryQueuePath))
+                MessageQueue.Create(sDeliveryQueuePath, true);
         }
 
         private static void ResolveDependencies()

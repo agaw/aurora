@@ -19,7 +19,7 @@ namespace DeliveryCo.Services
             }
         }
 
-        [OperationBehavior(TransactionScopeRequired = true)]
+        //[OperationBehavior(TransactionScopeRequired = true)]
         public Guid SubmitDelivery(DeliveryCo.Business.Entities.DeliveryInfo pDeliveryInfo)
         {
             return DeliveryProvider.SubmitDelivery(pDeliveryInfo);
