@@ -8,3 +8,8 @@ C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Components.Interfaces
 C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
 C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb

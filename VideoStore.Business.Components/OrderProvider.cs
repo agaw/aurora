@@ -65,6 +65,27 @@ namespace VideoStore.Business.Components
 			}
 		}
 
+        public void CancelOrder(Entities.Order pOrder)
+        {
+            using (TransactionScope lScope = new TransactionScope())
+            using (VideoStoreEntityModelContainer lContainer = new VideoStoreEntityModelContainer())
+            {
+                try
+                {
+                    pOrder.RevertStockLevels();
+                    lContainer.Orders.ApplyChanges(pOrder);
+                    SendOrderDeclinedEmail(pOrder);
+                    lContainer.SaveChanges();
+                    lScope.Complete();
+                }
+                catch (Exception lException)
+                {
+                    SendOrderErrorMessage(pOrder, lException);
+                    throw;
+                }
+            }
+        }
+
         private void SendOrderErrorMessage(Order pOrder, Exception pException)
         {
             EmailProvider.SendMessage(new EmailMessage()
@@ -80,6 +101,15 @@ namespace VideoStore.Business.Components
             {
                 ToAddress = pOrder.Customer.Email,
                 Message = "Your order " + pOrder.OrderNumber + " has been placed"
+            });
+        }
+
+        private void SendOrderDeclinedEmail(Order pOrder)
+        {
+            EmailProvider.SendMessage(new EmailMessage()
+            {
+                ToAddress = pOrder.Customer.Email,
+                Message = "There was an error in processsing your order " + pOrder.OrderNumber + ": The bank transfer was declined."
             });
         }
 
@@ -121,6 +151,8 @@ namespace VideoStore.Business.Components
         {
             return 123;
         }
+
+        
 
 
     }

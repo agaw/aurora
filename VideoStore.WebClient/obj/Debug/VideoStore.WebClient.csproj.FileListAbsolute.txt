@@ -72,3 +72,40 @@ C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Web.Mvc.xml
 C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.dll
 C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\VideoStore.WebClient.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\VideoStore.WebClient.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\Common.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\Microsoft.CSharp.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Configuration.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Data.DataSetExtensions.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Data.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Drawing.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.EnterpriseServices.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Runtime.Serialization.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.ServiceModel.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Web.Abstractions.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Web.ApplicationServices.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Web.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Web.DynamicData.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Web.Entity.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Web.Extensions.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Web.Routing.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Web.Services.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Xml.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Xml.Linq.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\VideoStore.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\Common.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\VideoStore.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.pdb

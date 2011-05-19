@@ -12,3 +12,10 @@ C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Business\DeliveryCo.Business.Component
 C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
 C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb

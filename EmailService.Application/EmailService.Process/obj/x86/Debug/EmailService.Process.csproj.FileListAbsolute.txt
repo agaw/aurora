@@ -27,3 +27,20 @@ C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin
 C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
 C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -22,3 +22,15 @@ C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug
 C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
 C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb

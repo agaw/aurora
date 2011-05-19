@@ -20,3 +20,16 @@ C:\Users\Dipesh\Desktop\aurora\VideoStore.Services.Interfaces\bin\Debug\Common.p
 C:\Users\Dipesh\Desktop\aurora\VideoStore.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.dll
 C:\Users\Dipesh\Desktop\aurora\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\bin\Debug\Common.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\bin\Debug\Common.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.pdb

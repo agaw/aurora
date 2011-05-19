@@ -44,6 +44,7 @@ namespace Bank.Business.Components
 					NotificationService.NotificationServiceClient IClient = new NotificationService.NotificationServiceClient();
 					IClient.NotifyBankTransactionCompleted(pOrderNumber, OperationOutcome.Failure);
 
+                    lScope.Complete();
                     //throw;
 					//lOutcomeService.NotifyOperationOutcome(new OperationOutcome() { Outcome = OperationOutcome.OperationOutcomeResult.Failure, Message = lException.Message });
                 }

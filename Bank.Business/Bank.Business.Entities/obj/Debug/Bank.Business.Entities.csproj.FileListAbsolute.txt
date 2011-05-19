@@ -10,3 +10,9 @@ C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Entities\bin\Debug\Ba
 C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
 C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb

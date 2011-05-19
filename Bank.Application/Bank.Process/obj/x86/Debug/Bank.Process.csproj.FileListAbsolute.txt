@@ -42,3 +42,25 @@ C:\Users\Dipesh\Desktop\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Serv
 C:\Users\Dipesh\Desktop\aurora\Bank.Application\Bank.Process\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.exe
 C:\Users\Dipesh\Desktop\aurora\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Process.exe.config
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Process.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Process.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Services.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Services.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Application\Bank.Process\obj\x86\Debug\ResolveAssemblyReference.cache

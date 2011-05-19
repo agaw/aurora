@@ -8,3 +8,8 @@ C:\Users\Dipesh\Desktop\aurora\EmailService.Business.Entities\bin\Debug\EmailSer
 C:\Users\Dipesh\Desktop\aurora\EmailService.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.exe
 C:\Users\Dipesh\Desktop\aurora\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb

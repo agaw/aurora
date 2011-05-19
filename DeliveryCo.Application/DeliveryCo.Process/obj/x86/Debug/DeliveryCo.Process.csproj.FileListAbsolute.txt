@@ -42,3 +42,25 @@ C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Deb
 C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.exe
 C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe.config
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\ResolveAssemblyReference.cache

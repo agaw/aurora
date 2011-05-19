@@ -8,3 +8,8 @@ C:\Users\Dipesh\Desktop\aurora\Common\bin\Debug\Common.pdb
 C:\Users\Dipesh\Desktop\aurora\Common\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\Common\obj\Debug\Common.dll
 C:\Users\Dipesh\Desktop\aurora\Common\obj\Debug\Common.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Common\bin\Debug\Common.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Common\bin\Debug\Common.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Common\obj\Debug\Common.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Common\obj\Debug\Common.pdb

@@ -14,3 +14,11 @@ C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\
 C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
 C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb

@@ -22,3 +22,15 @@ C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Busine
 C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
 C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb

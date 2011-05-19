@@ -16,3 +16,12 @@ C:\Users\Dipesh\Desktop\aurora\EmailService.Services\EmailService.Services\bin\D
 C:\Users\Dipesh\Desktop\aurora\EmailService.Services\EmailService.Services\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Dipesh\Desktop\aurora\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.dll
 C:\Users\Dipesh\Desktop\aurora\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Business.Entities.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Services\EmailService.Services\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.dll
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\aurora\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.pdb

@@ -40,14 +40,16 @@ namespace VideoStore.Business.Components
 
 		public void NotifyBankTransactionCompleted(Guid pOrderNumber, PaymentTransactionOutcome pPaymentTransactionOutcome)
 		{
-			OrderProvider OrderProvide = new OrderProvider();
-
-			if (pPaymentTransactionOutcome == PaymentTransactionOutcome.Successful)
+			OrderProvider pOrderProvider = new OrderProvider();
+            Order Order = RetrieveDeliveryOrderByOrderNumber(pOrderNumber);
+            if (pPaymentTransactionOutcome == PaymentTransactionOutcome.Successful)
 			{
-				Order Order = RetrieveDeliveryOrderByOrderNumber(pOrderNumber);
-
-				OrderProvide.SubmitDelivery(Order);
-			}
+				pOrderProvider.SubmitDelivery(Order);
+            }
+            else if (pPaymentTransactionOutcome == PaymentTransactionOutcome.Failure)
+            {
+                pOrderProvider.CancelOrder(Order);
+            }
 		}
 
 		private void UpdateDeliveryStatus(Guid pDeliveryId, DeliveryStatus status)
@@ -79,7 +81,8 @@ namespace VideoStore.Business.Components
 				return lContainer.Orders.Include("Customer").Where((aOrder) => aOrder.OrderNumber == pOrderNumber).FirstOrDefault();
 			}
 		}
-	}
+
+     }
 
 
 }
