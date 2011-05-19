@@ -5,14 +5,17 @@ using System.Text;
 using DeliveryCo.Services.Interfaces;
 using System.ServiceModel;
 
+/**
+ * Facotry not being used anymore.
 namespace DeliveryCo.Business.Components
 {
     public class DeliveryNotificationServiceFactory
     {
-        public static IDeliveryNotificationService GetDeliveryNotificationService(String pAddress)
+        public static INotificationService GetDeliveryNotificationService(String pAddress)
         {
-            ChannelFactory<IDeliveryNotificationService> lChannelFactory = new ChannelFactory<IDeliveryNotificationService>(new NetTcpBinding(), new EndpointAddress(pAddress));
+            ChannelFactory<INotificationService> lChannelFactory = new ChannelFactory<INotificationService>(new NetTcpBinding(), new EndpointAddress(pAddress));
             return lChannelFactory.CreateChannel();
         }
     }
 }
+**/

@@ -7,6 +7,7 @@ namespace DeliveryCo.Business.Components.Interfaces
 {
     public interface IDeliveryProvider
     {
-        Guid SubmitDelivery(DeliveryCo.Business.Entities.DeliveryInfo pDeliveryInfo);
+        //Guid SubmitDelivery(DeliveryCo.Business.Entities.DeliveryInfo pDeliveryInfo);
+		void SubmitDelivery(DeliveryCo.Business.Entities.DeliveryInfo pDeliveryInfo);
     }
 }

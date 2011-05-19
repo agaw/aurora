@@ -1,0 +1,10 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.exe
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.exe
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.exe
+C:\Users\Dipesh\Desktop\aurora\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\EmailService.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.exe
+C:\Users\Dipesh\Desktop\aurora\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb

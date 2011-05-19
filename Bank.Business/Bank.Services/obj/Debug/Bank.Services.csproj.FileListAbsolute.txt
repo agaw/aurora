@@ -1,0 +1,24 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.dll
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.pdb
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb

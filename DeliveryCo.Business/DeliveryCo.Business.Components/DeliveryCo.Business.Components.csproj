@@ -41,6 +41,7 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Transactions" />
     <Reference Include="System.Xml.Linq" />
@@ -53,6 +54,11 @@
     <Compile Include="DeliveryNotificationServiceFactory.cs" />
     <Compile Include="DeliveryProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\NotificationService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\DeliveryCo.Services\DeliveryCo.Services.Interfaces\DeliveryCo.Services.Interfaces.csproj">
@@ -67,6 +73,40 @@
       <Project>{378B43F5-B7BC-471A-87A9-B1656A6B1531}</Project>
       <Name>DeliveryCo.Business.Entities</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Service References\NotificationService\Bank.Business.Entities.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NotificationService\DeliveryCo.Business.Entities.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NotificationService\service.wsdl" />
+    <None Include="Service References\NotificationService\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NotificationService\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\NotificationService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\NotificationService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\NotificationService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\NotificationService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

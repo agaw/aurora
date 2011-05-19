@@ -1,0 +1,16 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb

@@ -16,13 +16,17 @@ using VideoStore.Business.Entities;
 using System.Transactions;
 using System.ServiceModel.Description;
 using VideoStore.Business.Components.Interfaces;
+using System.Messaging;
 
 namespace VideoStore.Process
 {
     public class Program
     {
+		private static readonly String sDeliveryNotificationQueuePath = ".\\private$\\NotificationMessageQueueTransacted";
+
         static void Main(string[] args)
         {
+			EnsureMessageQueuesExists();
             ResolveDependencies();
             InsertDummyEntities();
             HostServices();
@@ -34,6 +38,13 @@ namespace VideoStore.Process
             CreateOperator();
             CreateUser();
         }
+
+		private static void EnsureMessageQueuesExists()
+		{
+			// Create the transacted MSMQ queue if necessary.
+			if (!MessageQueue.Exists(sDeliveryNotificationQueuePath))
+				MessageQueue.Create(sDeliveryNotificationQueuePath, true);
+		}
 
         private static void CreateUser()
         {

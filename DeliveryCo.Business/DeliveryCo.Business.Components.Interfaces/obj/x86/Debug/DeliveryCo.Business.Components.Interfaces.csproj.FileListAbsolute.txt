@@ -1,0 +1,14 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb

@@ -1,0 +1,10 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb

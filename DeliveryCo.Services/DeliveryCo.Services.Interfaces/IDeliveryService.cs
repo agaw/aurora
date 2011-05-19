@@ -10,8 +10,8 @@ namespace DeliveryCo.Services.Interfaces
     [ServiceContract]
     public interface IDeliveryService
     {
-        [OperationContracts]
+        [OperationContract(IsOneWay=true)]
         //[TransactionFlow(TransactionFlowOption.Allowed)]
-        Guid SubmitDelivery(DeliveryInfo pDeliveryInfo);
+        void SubmitDelivery(DeliveryInfo pDeliveryInfo);
     }
 }

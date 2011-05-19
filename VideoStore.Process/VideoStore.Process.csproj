@@ -81,6 +81,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DeliveryCo.Business\DeliveryCo.Business.Entities\DeliveryCo.Business.Entities.csproj">
+      <Project>{378B43F5-B7BC-471A-87A9-B1656A6B1531}</Project>
+      <Name>DeliveryCo.Business.Entities</Name>
+    </ProjectReference>
     <ProjectReference Include="..\VideoStore.Business.Components.Interfaces\VideoStore.Business.Components.Interfaces.csproj">
       <Project>{2851CEF3-00F9-4AFB-9306-0D6E0BDD45E3}</Project>
       <Name>VideoStore.Business.Components.Interfaces</Name>

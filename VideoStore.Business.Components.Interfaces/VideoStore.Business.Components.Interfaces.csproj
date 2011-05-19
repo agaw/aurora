@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ICatalogueProvider.cs" />
-    <Compile Include="IDeliveryNotificationProvider.cs" />
+    <Compile Include="INotificationProvider.cs" />
     <Compile Include="IEmailProvider.cs" />
     <Compile Include="IRoleProvider.cs" />
     <Compile Include="IUserProvider.cs" />

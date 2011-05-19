@@ -1,0 +1,24 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb

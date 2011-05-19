@@ -1,0 +1,38 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\Common.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\bin\Debug\Common.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\Common.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\bin\Debug\Common.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.Services\obj\Debug\VideoStore.Services.pdb

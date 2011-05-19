@@ -1,0 +1,44 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe.config
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.exe
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe.config
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.exe
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.pdb

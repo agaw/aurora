@@ -13,7 +13,7 @@ namespace Bank.Business.Components
     {
 
 
-        public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber)
+		public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, Guid pOrderNumber)
         {
             using (TransactionScope lScope = new TransactionScope())
             using (BankEntityModelContainer lContainer = new BankEntityModelContainer())
@@ -29,15 +29,23 @@ namespace Bank.Business.Components
                     lContainer.Attach(lToAcct);
                     lContainer.ObjectStateManager.ChangeObjectState(lFromAcct, System.Data.EntityState.Modified);
                     lContainer.ObjectStateManager.ChangeObjectState(lToAcct, System.Data.EntityState.Modified);
-                    lContainer.SaveChanges();
-                    lScope.Complete();
+
+					NotificationService.NotificationServiceClient IClient = new NotificationService.NotificationServiceClient();
+					IClient.NotifyBankTransactionCompleted(pOrderNumber, OperationOutcome.Successful);
+
+					lContainer.SaveChanges();
+					lScope.Complete();
                     //lOutcomeService.NotifyOperationOutcome(new OperationOutcome() { Outcome = OperationOutcome.OperationOutcomeResult.Successful });
                 }
                 catch (Exception lException)
                 {
                     Console.WriteLine("Error occured while transferring money:  " + lException.Message);
-                    throw;
-                    //lOutcomeService.NotifyOperationOutcome(new OperationOutcome() { Outcome = OperationOutcome.OperationOutcomeResult.Failure, Message = lException.Message });
+
+					NotificationService.NotificationServiceClient IClient = new NotificationService.NotificationServiceClient();
+					IClient.NotifyBankTransactionCompleted(pOrderNumber, OperationOutcome.Failure);
+
+                    //throw;
+					//lOutcomeService.NotifyOperationOutcome(new OperationOutcome() { Outcome = OperationOutcome.OperationOutcomeResult.Failure, Message = lException.Message });
                 }
             }
         }

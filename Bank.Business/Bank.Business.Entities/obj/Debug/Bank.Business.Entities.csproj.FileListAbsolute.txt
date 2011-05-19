@@ -1,0 +1,12 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb

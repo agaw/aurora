@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Bank.Business.Entities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Bank.Business.Entities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="OperationOutcome">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Successful" />
+      <xs:enumeration value="Failure" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="OperationOutcome" nillable="true" type="tns:OperationOutcome" />
+</xs:schema>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="981495c4-cbc1-44a8-91d0-d0fe05922cd5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c72e8ef9-a803-4844-905e-e5205737e4a3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <EnableDataBinding>true</EnableDataBinding>
@@ -21,10 +21,10 @@
     <MetadataSource Address="net.tcp://localhost:9040/EmailService/mex" Protocol="mex" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="812ec4eb-7b56-460e-a673-551639fe6e1d" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
-    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="d3086e92-9574-4b6a-a2b1-c92d48259383" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
-    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="01b9f5b8-8883-45d0-bba6-b0331d59d23a" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
-    <MetadataFile FileName="EmailService.Business.Entities.xsd" MetadataType="Schema" ID="3733e91b-815f-44fd-8245-048c90952b25" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="41943a06-572f-4f72-bd78-3eae0f3bedbc" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="443414e5-0b25-4073-8b4a-8ba31ee50bef" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="30260336-1192-4abd-82ee-da86c1da4958" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
+    <MetadataFile FileName="EmailService.Business.Entities.xsd" MetadataType="Schema" ID="8dd7d23d-9382-4f94-a05f-7d2cde4b8fd4" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

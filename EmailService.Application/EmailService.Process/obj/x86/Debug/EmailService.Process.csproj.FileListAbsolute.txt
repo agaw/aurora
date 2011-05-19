@@ -1,0 +1,29 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+C:\Users\Dipesh\Desktop\aurora\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb

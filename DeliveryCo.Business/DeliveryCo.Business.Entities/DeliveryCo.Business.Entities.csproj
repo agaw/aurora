@@ -55,6 +55,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DeliveryDataModel.edmx</DependentUpon>
     </Compile>
+    <Compile Include="DeliveryInfoStatus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -20,9 +20,9 @@ namespace DeliveryCo.Services
         }
 
         //[OperationBehavior(TransactionScopeRequired = true)]
-        public Guid SubmitDelivery(DeliveryCo.Business.Entities.DeliveryInfo pDeliveryInfo)
+        public void SubmitDelivery(DeliveryCo.Business.Entities.DeliveryInfo pDeliveryInfo)
         {
-            return DeliveryProvider.SubmitDelivery(pDeliveryInfo);
+			DeliveryProvider.SubmitDelivery(pDeliveryInfo);
         }
     }
 }

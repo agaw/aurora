@@ -158,9 +158,8 @@ namespace VideoStore.Business.Components.DeliveryService {
     [System.ServiceModel.ServiceContractAttribute(ConfigurationName="DeliveryService.IDeliveryService")]
     public interface IDeliveryService {
         
-        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IDeliveryService/SubmitDelivery", ReplyAction="http://tempuri.org/IDeliveryService/SubmitDeliveryResponse")]
-        [System.ServiceModel.TransactionFlowAttribute(System.ServiceModel.TransactionFlowOption.Allowed)]
-        System.Guid SubmitDelivery(VideoStore.Business.Components.DeliveryService.DeliveryInfo pDeliveryInfo);
+        [System.ServiceModel.OperationContractAttribute(IsOneWay=true, Action="http://tempuri.org/IDeliveryService/SubmitDelivery")]
+        void SubmitDelivery(VideoStore.Business.Components.DeliveryService.DeliveryInfo pDeliveryInfo);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -190,8 +189,8 @@ namespace VideoStore.Business.Components.DeliveryService {
                 base(binding, remoteAddress) {
         }
         
-        public System.Guid SubmitDelivery(VideoStore.Business.Components.DeliveryService.DeliveryInfo pDeliveryInfo) {
-            return base.Channel.SubmitDelivery(pDeliveryInfo);
+        public void SubmitDelivery(VideoStore.Business.Components.DeliveryService.DeliveryInfo pDeliveryInfo) {
+            base.Channel.SubmitDelivery(pDeliveryInfo);
         }
     }
 }

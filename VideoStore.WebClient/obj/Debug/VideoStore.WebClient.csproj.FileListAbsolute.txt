@@ -1,0 +1,74 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\VideoStore.WebClient.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\VideoStore.WebClient.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\Common.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\Microsoft.CSharp.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\Microsoft.Practices.ObjectBuilder2.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\Microsoft.Practices.ServiceLocation.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.Configuration.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.StaticFactory.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.ComponentModel.DataAnnotations.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Configuration.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Data.DataSetExtensions.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Data.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Drawing.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.EnterpriseServices.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Runtime.Serialization.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.ServiceModel.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Web.Abstractions.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Web.ApplicationServices.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Web.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Web.DynamicData.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Web.Entity.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Web.Extensions.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Web.Mvc.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Web.Routing.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Web.Services.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Xml.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Xml.Linq.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\VideoStore.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\Common.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\VideoStore.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\bin\System.Web.Mvc.xml
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\VideoStore.WebClient.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\VideoStore.WebClient.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\Common.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\Microsoft.CSharp.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Configuration.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Data.DataSetExtensions.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Data.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Drawing.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.EnterpriseServices.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Runtime.Serialization.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.ServiceModel.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Web.Abstractions.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Web.ApplicationServices.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Web.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Web.DynamicData.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Web.Entity.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Web.Extensions.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Web.Routing.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Web.Services.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Xml.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Xml.Linq.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\VideoStore.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\Common.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\VideoStore.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.dll
+C:\Users\Dipesh\Desktop\aurora\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.pdb

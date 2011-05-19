@@ -1,0 +1,14 @@
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.dll
+Z:\Dipesh\Documents\UNI\Y4S1\COMP5348 - Enterprise Scale Software Architecture\GroupAssignment\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Dipesh\Desktop\aurora\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.pdb

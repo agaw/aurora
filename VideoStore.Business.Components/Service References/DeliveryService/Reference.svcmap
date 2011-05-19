@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1b8c5623-43c7-4f22-b41a-45a242479072" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7161506d-b9e8-466c-a5c6-111b60f3c6e2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <EnableDataBinding>true</EnableDataBinding>
@@ -21,12 +21,12 @@
     <MetadataSource Address="net.tcp://localhost:9030/DeliveryService/mex" Protocol="mex" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="881361b2-55e3-4d61-962b-7561d65fc3f9" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
-    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="93aa80aa-4020-4690-aef3-1808f940c608" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
-    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="62cfe760-e7e1-4558-9afd-3859136c038c" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
-    <MetadataFile FileName="DeliveryCo.Business.Entities.xsd" MetadataType="Schema" ID="de718ac0-65ec-48fd-91ab-4539d8050a74" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
-    <MetadataFile FileName="System.Data.Objects.DataClasses.xsd" MetadataType="Schema" ID="35c6ef72-9fad-4709-85e0-e9ca20cb42fd" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
-    <MetadataFile FileName="System.Data.xsd" MetadataType="Schema" ID="46487598-e25a-419f-983e-230c16a24230" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="6c929e66-0714-47fe-a56d-552b3489017e" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="39f5ded5-4372-4e72-8adc-c12a6ab10500" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="7d605029-b983-45a2-9955-57d4c998708d" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
+    <MetadataFile FileName="DeliveryCo.Business.Entities.xsd" MetadataType="Schema" ID="77f548f5-e629-46f5-9efb-f78c9f8dc15d" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
+    <MetadataFile FileName="System.Data.Objects.DataClasses.xsd" MetadataType="Schema" ID="4d0f1330-dcd8-45a9-85ed-7b5dbf90d2fe" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
+    <MetadataFile FileName="System.Data.xsd" MetadataType="Schema" ID="ab6af64c-2729-4870-971c-6408c9a80641" SourceId="1" SourceUrl="net.tcp://localhost:9030/DeliveryService/mex" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
