@@ -7,6 +7,6 @@ namespace Bank.Business.Components.Interfaces
 {
     public interface ITransferProvider
     {
-		void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, Guid pOrderNumber);
+		void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, Guid pOrderNumber, string pReturnAddress);
     }
 }

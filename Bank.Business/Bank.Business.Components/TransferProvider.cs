@@ -13,7 +13,7 @@ namespace Bank.Business.Components
     {
 
 
-		public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, Guid pOrderNumber)
+		public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, Guid pOrderNumber, string pReturnAddress)
         {
             using (TransactionScope lScope = new TransactionScope())
             using (BankEntityModelContainer lContainer = new BankEntityModelContainer())
@@ -30,7 +30,7 @@ namespace Bank.Business.Components
                     lContainer.ObjectStateManager.ChangeObjectState(lFromAcct, System.Data.EntityState.Modified);
                     lContainer.ObjectStateManager.ChangeObjectState(lToAcct, System.Data.EntityState.Modified);
 
-					NotificationService.NotificationServiceClient IClient = new NotificationService.NotificationServiceClient();
+                    NotificationService.NotificationServiceClient IClient = new NotificationService.NotificationServiceClient("NetMsmqBinding_INotificationService", pReturnAddress);
 					IClient.NotifyBankTransactionCompleted(pOrderNumber, OperationOutcome.Successful);
 
 					lContainer.SaveChanges();
@@ -41,9 +41,9 @@ namespace Bank.Business.Components
                 {
                     Console.WriteLine("Error occured while transferring money:  " + lException.Message);
 
-					NotificationService.NotificationServiceClient IClient = new NotificationService.NotificationServiceClient();
+					NotificationService.NotificationServiceClient IClient = new NotificationService.NotificationServiceClient("NetMsmqBinding_INotificationService", pReturnAddress);
 					IClient.NotifyBankTransactionCompleted(pOrderNumber, OperationOutcome.Failure);
-
+                    
                     lScope.Complete();
                     //throw;
 					//lOutcomeService.NotifyOperationOutcome(new OperationOutcome() { Outcome = OperationOutcome.OperationOutcomeResult.Failure, Message = lException.Message });

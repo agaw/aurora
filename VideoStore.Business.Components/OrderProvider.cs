@@ -144,7 +144,7 @@ namespace VideoStore.Business.Components
         private void TransferFundsFromCustomer(int pCustomerAccountNumber, double pTotal, Guid pOrderNumber)
         {
             TransferServiceClient lClient = new TransferServiceClient();
-            lClient.Transfer(pTotal, pCustomerAccountNumber, RetrieveVideoStoreAccountNumber(), pOrderNumber);
+            lClient.Transfer(pTotal, pCustomerAccountNumber, RetrieveVideoStoreAccountNumber(), pOrderNumber, "net.msmq://localhost/private/NotificationMessageQueueTransacted");
         }
 
         private int RetrieveVideoStoreAccountNumber()
