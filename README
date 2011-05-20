@@ -1,2 +1,20 @@
-blah
+************************************
+************** README **************
+************************************
+
+Authors: Adam Gawronski, Dipesh Chauhan, Ricky Marcon
+
+Procedure to setup and run the application:
+1) Install MSMQ onto the local machine. To do this goto Control Panel -> Programs -> Turn Windows features on or off -> Tick box "Microsoft Message Queue (MSMQ) Server" -> Click "OK"
+
+2) Create the databases used by the applications. The following databases will need to be created:
+	* Deliveries
+	* Videos
+	* Bank
+
+For each respective database navigate to the Business.Compoents.Entities project and execute the EntityModel.edmx.sql file. These files will create the tables used by the database.
+
+3) To run the application, simply run the solution file and this will start  the 4 process applications.
+
+
 
